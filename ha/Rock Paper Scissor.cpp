@@ -10,7 +10,7 @@ void main()
 
     if (choise > 3 || choise == 0)
     {
-        std::cout << "Not a correct choise";
+        std::cout << "Not a correct choise.";
     }
     else {
         std::cout << CPUChoise;
